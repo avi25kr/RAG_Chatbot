@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+api/app.log
+api/rag_app.db
+api/chroma_db/
